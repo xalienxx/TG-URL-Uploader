@@ -1,9 +1,9 @@
+Pyrogram==1.4.0
 aiohttp
 beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrogram
 requests
 tgcrypto
 youtube-dl
